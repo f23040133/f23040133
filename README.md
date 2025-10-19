@@ -109,8 +109,8 @@ My vision is to develop practical, AI-driven solutions that enhance efficiency, 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MD-MYAN-UDDIN&show_icons=true&locale=en&theme=tokyonight" alt="MD-MYAN-UDDIN" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-MYAN-UDDIN&layout=compact&locale=en&theme=tokyonight" alt="MD-MYAN-UDDIN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MD-MYAN-UDDIN&show_icons=true&locale=en&theme=tokyonight" alt="f23040133" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-MYAN-UDDIN&layout=compact&locale=en&theme=tokyonight" alt="f23040133" />
 </p>
 
 ---
